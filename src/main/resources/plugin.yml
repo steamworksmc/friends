@@ -1,0 +1,5 @@
+name: "Friends"
+version: "1.0-SNAPSHOT"
+website: "https://www.steamsworld.com/"
+main: io.github.steamworksmc.bungee.BungeePlugin
+authors: [ Steamworks, Bice8687]
